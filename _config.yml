@@ -11,19 +11,19 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
-avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+url: http://ryanlennon.github.io/
+baseurl: /
+title: Ryan Lennon
+author: Ryan Lennon
+description: Personal blog
+avatar: profile.jpg
+email: ryanlennon07@gmail.com
+github: ryanlennon # username
+twitter: RyanL3nn0n
+linkedin: ryanlennon07
+stackoverflow: #username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+disqus: ryanlennon07
 google_analytics: UA-69391421-1
 
 
