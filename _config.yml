@@ -1,4 +1,4 @@
-# top level stuff you probably don't need to touch
+# don't need to touch
 highlighter: pygments
 markdown: rdiscount
 rdiscount:
@@ -10,7 +10,7 @@ port: 3000
 safe: true
 
 
-# edit here to achieve your personal greatness
+
 url: http://ryanlennon.github.io/
 baseurl: /
 title: Ryan Lennon
@@ -18,11 +18,11 @@ author: Ryan Lennon
 description: Personal blog
 avatar: profile.jpg
 email: ryanlennon07@gmail.com
-github: ryanlennon # username
+github: ryanlennon 
 twitter: RyanL3nn0n
 linkedin: ryanlennon07
-stackoverflow: #username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
+stackoverflow: #username   
+
 disqus: ryanlennon07
 google_analytics: UA-69391421-1
 
